@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chatbot</string>
+    <string name="write_your_message">Write your message</string>
+    <string name="waiting">Waiting…</string>
+    <string name="send">Send</string>
+    <string name="new_conversation">Start new Conversation</string>
+    <string name="resumed_conversation">Resume the conversation</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="something_went_wrong">Something went wrong. Please try again.</string>
+</resources>
