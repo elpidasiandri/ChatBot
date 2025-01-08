@@ -1,3 +1,4 @@
+Siandri Elpida - Chatbot (The projecte was created in Android studio, using kotlin)
 The user interface (UI) of our application is designed with simplicity and functionality in mind:
 - Ellipsis Menu: In the top-left corner, an ellipsis icon appears only if there are previous conversations available.
 - View-Only Past Conversations: Users can click on any past conversation to view its full content, but they cannot continue the discussion or make changes.
